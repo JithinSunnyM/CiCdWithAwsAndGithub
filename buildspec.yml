@@ -1,0 +1,9 @@
+---
+version: 0.2
+phases:
+  install:
+    commands: null
+  build:
+    commands: null
+artifacts:
+  files: null
